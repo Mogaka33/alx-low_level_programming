@@ -1,6 +1,6 @@
 /*
  * File: 4-puts.c
- * Auth: Jan Nelson
+ * Auth: mogaka33
  */
 
 #include <stdio.h>
